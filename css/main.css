@@ -1,0 +1,41 @@
+
+/* Realizando el archivo css*/
+
+/*Aplicando selector universal*/
+*{
+  /*Mantiene el ancho que se le brinda para una mejor visualización*/
+  box-sizing: border-box;
+  /*Aplicando altura*/
+  height: 100px;
+}
+
+/*Empleando selector de tipo a la etiqueta div*/
+div{
+  /*Aplicando el tipo de letra*/
+  font-family: courier;
+  /*Aplicando el tamaño de la letra*/
+  font-size: 12px;
+  /*Aplicando un espacio al margen inferior*/
+  margin-bottom: 10px;
+  /*Aplicando un espacio al relleno superior*/
+  padding-top: 10px;
+  /*Aplicando un espacio al relleno izquierdo*/
+  padding-left: 10px;
+}
+
+/*Emplenado selector clase*/
+.gold1{
+  /*Aplicando color de fondo en RGB hexadecimal*/
+  background-color: #ffc107;
+}
+.gold2{
+  background-color: #ffc107;
+  /*Aplicando tamaño de letra*/
+  font-size: 16px;
+}
+.black{
+  /*Aplicando color de fondo en rgb decimal con un cuarto canal que define la opacidad*/
+  background-color: rgba(0,0,0,0.80);
+  /*Aplicando color a la letra*/
+  color: white;
+}
