@@ -3,7 +3,7 @@ Banderas Display-Parte Uno
 1. Autora: Melissa Yauri
 
 2. Objetivo  
-El presente trabajo consta de hacer uso de la propiedad "display", en el cual se debe de replicar la imagen adjuntada. De manera que cada bloque ocupe el máximo ancho.
+El presente trabajo consta en realizar un menu de navegación y cada vez que pase el cursor el menu cambie de color.
 
 3. Herramientas   
  -Html   
@@ -11,4 +11,4 @@ El presente trabajo consta de hacer uso de la propiedad "display", en el cual se
  -Css
 
 4. Imagen  
-![recursos](assets/display_parte1.jpg)
+![recursos](assets/docs/display_parte1.JPG)
